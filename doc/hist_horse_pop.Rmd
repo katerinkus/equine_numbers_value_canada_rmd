@@ -4,7 +4,7 @@ bibliography: references.bib
 params:
   province: "Alberta"
 output:
-  html_document:
+  github_document:
     toc: true
   
   
